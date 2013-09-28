@@ -1,0 +1,18 @@
+{
+  "name": "ember-requireify",
+  "version": "0.0.0",
+  "description": "An attempt at using requireify to resolve Ember dependencies\"",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "bower install",
+    "start": "node build; open index.html"
+  },
+  "author": "John K. Paul",
+  "license": "MIT",
+  "dependencies": {
+    "browserify-shim": "~2.0.8",
+    "requireify": "0.0.6",
+    "browserify": "~2.33.0",
+    "recursive-readdir": "0.0.1"
+  }
+}
