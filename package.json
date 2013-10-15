@@ -13,6 +13,7 @@
     "browserify-shim": "~2.0.8",
     "requireify": "0.0.6",
     "browserify": "~2.33.0",
-    "recursive-readdir": "0.0.1"
+    "recursive-readdir": "0.0.1",
+    "bower": "~1.2.7"
   }
 }
